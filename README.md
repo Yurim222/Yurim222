@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yurim222
-- 👀 I’m interested in JS, React, User-Friendly Ui, and IoT
+- 👀 I’m interested in JS, React, User-Friendly UI
 - 🌱 I’m currently learning JavaScript and entire environment of web
 - 💞️ I’m looking to collaborate someone who has powerful enthusiasm.
 
